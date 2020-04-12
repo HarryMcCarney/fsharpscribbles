@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKNOy364bLGKm+2EfOGFTQ0Kc/v2NBPOJdAIR/zVHGLwOQunkcOX+eIvV3BT+N+hRoDYKryZSxi9PqCI20CcwA==",
+  "success": true,
+  "projectFilePath": "/home/harry/PannelSim/fsharpscribbles/PannelSim/PannelSim.fsproj",
+  "expectedPackageFiles": [
+    "/home/harry/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
